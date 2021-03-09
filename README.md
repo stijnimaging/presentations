@@ -1,4 +1,4 @@
-# presentations
+# Presentations in PDF format
 
 This repository contains the following presentations:
 - IDS-think tank Maastricht University (20-5-2019)
