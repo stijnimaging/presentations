@@ -9,4 +9,4 @@ This repository contains the following presentations:
 - Presentation Neuripides seminar (11-2-2021)
 - Presentation LUMC meeting (9-3-2021)
 
-![alt text](http://url/to/img.png)
+![Levels of Measurement](https://github.com/stijnimaging/presentations/blob/master/levels_measurement.jpg?raw=true)
