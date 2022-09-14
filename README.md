@@ -8,3 +8,5 @@ This repository contains the following presentations:
 - Paper discussion Fundamental Neuroscience meeting (4-9-2019)
 - Presentation Neuripides seminar (11-2-2021)
 - Presentation LUMC meeting (9-3-2021)
+
+![alt text](http://url/to/img.png)
